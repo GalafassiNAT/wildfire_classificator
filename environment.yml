@@ -1,0 +1,16 @@
+name: 
+  /home/nora/Desktop/Faculdade/Sexto_Periodo/Inteligencia_Artificial/trabalhoFinal/wildfire_classificator/env
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - jupyter
+  - scikit-learn
+  - numpy
+  - kagglehub
+  - pandas
+  - matplotlib
+  - kaggle
+  - tqdm
+prefix: 
+  /home/nora/Desktop/Faculdade/Sexto_Periodo/Inteligencia_Artificial/trabalhoFinal/wildfire_classificator/env
