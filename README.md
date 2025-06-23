@@ -56,7 +56,7 @@ To proper configurate and run this project locally, run the following steps:
    After the creation, you need to "activate" the environment to start using it.
    
    ```bash
-   conda activate wildfire_env\
+   conda activate wildfire_env
    ```
 
 5. **Run the project**
