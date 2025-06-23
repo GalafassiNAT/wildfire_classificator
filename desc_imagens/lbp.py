@@ -10,7 +10,8 @@ def lbp(image : np.ndarray,
         
     assert isinstance(image, np.ndarray) and len(image.shape) == 2
     desc = local_binary_pattern(image, P, R, method=method)
-    n_bins = int(desc.max() + 1)
+    
+    n_bins = P * ( P - 1) + 3
     hist, _ = np.histogram(desc, density=True, bins=n_bins, range=(0, n_bins))
 
     return hist
