@@ -93,4 +93,4 @@ The project follows a structured approach to classify wildfire images:
 
 ## Results
 
-The project achieves a high accuracy in classifying wildfire images, demonstrating the effectiveness of computer vision and machine learning techniques in this domain. The results are visualized using confusion matrices and classification reports, providing insights into the model's performance. Further details on the results can be found in the Jupyter Notebook file `Wildfire Classifier.ipynb` as such with the comments made in the code and the generated plots saved in the `plots` folder.
+The project achieves a high accuracy in classifying wildfire images, demonstrating the effectiveness of computer vision and machine learning techniques in this domain. The results are visualized using confusion matrices and classification reports, providing insights into the model's performance. Further details on the results can be found in the Jupyter Notebook file `Wildfire Classifier.ipynb` as such with the comments made in the code and the generated plots saved in the [plots](./output/output_plots) folder.
