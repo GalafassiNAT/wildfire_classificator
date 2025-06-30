@@ -65,7 +65,7 @@ To proper configurate and run this project locally, run the following steps:
 
 # About the project
 
-This project is a **computer vision** and **machine learning** application that classifies satellite images of wildfire regions. It uses a dataset of images from the [Wildfire Dataset](https://www.kaggle.com/datasets/abhinavwalia95/wildfire-dataset) on Kaggle, which contains images of wildfires and non-wildfires.
+This project is a **computer vision** and **machine learning** application that classifies satellite images of wildfire regions. It uses a dataset of images from the [Wildfire Dataset](https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset) on Kaggle, which contains images of wildfires and non-wildfires.
 
 ## Technologies used
 
