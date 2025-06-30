@@ -31,7 +31,7 @@ To proper configurate and run this project locally, run the following steps:
    
    The file `environment.yml` has the necessary dependencies and libraries used to run this project. Conda will use this file to create a virtual env with everything ready.
    
-   Run the following commando in your terminal, at the project's root:
+   Run the following command in your terminal, at the project's root:
    
    ```bash
    conda env create -f environment.yml
